@@ -1,1 +1,0 @@
-Yanji deployment permission check. Safe to delete; no personal data.
