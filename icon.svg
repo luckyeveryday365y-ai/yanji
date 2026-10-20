@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="研记">
+  <rect width="512" height="512" rx="104" fill="#315bb8"/>
+  <rect x="76" y="70" width="360" height="372" rx="76" fill="#ffffff"/>
+  <rect x="99" y="110" width="24" height="292" rx="12" fill="#7595db"/>
+  <path d="M173 192h190M173 260h190M173 328h128" stroke="#315bb8" stroke-width="28" stroke-linecap="round"/>
+  <circle cx="367" cy="342" r="32" fill="#315bb8"/>
+  <path d="m352 343 11 11 25-26" fill="none" stroke="#fff" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
