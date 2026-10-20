@@ -1,0 +1,20 @@
+{
+  "id": "/yanji/",
+  "name": "研记 · 考研记忆卡片",
+  "short_name": "研记",
+  "description": "考研全科记忆卡片、FSRS 复习、多级目录及本地备份",
+  "lang": "zh-CN",
+  "start_url": "/yanji/",
+  "scope": "/yanji/",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#315bb8",
+  "icons": [
+    {
+      "src": "/yanji/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
